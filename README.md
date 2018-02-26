@@ -6,15 +6,16 @@ This is a PHP project written to collect video posts from specified Facebook pag
  
 To use this you will need to define the parameters defined in "locals.php".
 Thus are:
-$ip='SQL_DB_IP'
-$user='SQL_USER'
-$password='SQL_USER_PASSWORD'
-$database_name='DATABASE_NAME'
-$app_id='YOUR_FACEBOOK_APP_ID';
-$app_secret='YOUR_SECRET_CODE';
-$version='v2.5'
-$local_path_to_dir='PATH/TO/DIR'
-$HTTPS_URL_TO_SITE=''
+
+	$ip='SQL_DB_IP'
+	$user='SQL_USER'
+	$password='SQL_USER_PASSWORD'
+	$database_name='DATABASE_NAME'
+	$app_id='YOUR_FACEBOOK_APP_ID';
+	$app_secret='YOUR_SECRET_CODE';
+	$version='v2.5'
+	$local_path_to_dir='PATH/TO/DIR'
+	$HTTPS_URL_TO_SITE=''
 
 Your database scheme should be as follow:
 
